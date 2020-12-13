@@ -13,12 +13,12 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: status.turboapi.dev
+  cname: status.turboapi.dev
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://turboapi.dev/social.png
   name: TurboAPI
-  baseUrl: /status
+  # baseUrl: /status
   introTitle: "**TurboAPI** is the easiest way to test your End-to-End and API Performance without installing a thing."
   introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
