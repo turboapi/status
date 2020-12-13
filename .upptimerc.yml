@@ -18,6 +18,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://turboapi.dev/social.png
   name: TurboAPI
+  baseUrl: /status
   introTitle: "**TurboAPI** is the easiest way to test your End-to-End and API Performance without installing a thing."
   introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
