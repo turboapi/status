@@ -7,13 +7,13 @@ sites:
   - name: Website
     url: https://turboapi.dev
   - name: API
-    url: https://api.turboapi.dev
+    url: https://api.turboapi.dev/v1/health
   - name: Docs
     url: https://docs.turboapi.dev
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: status.turboapi.dev
+  # cname: status.turboapi.dev
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://turboapi.dev/social.png
