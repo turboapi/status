@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 366,
-    "timeWeek": 242,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "time": 240,
+    "timeDay": 294,
+    "timeWeek": 263,
+    "timeMonth": 240,
+    "timeYear": 240,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 433,
-    "timeDay": 334,
-    "timeWeek": 476,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "time": 428,
+    "timeDay": 336,
+    "timeWeek": 472,
+    "timeMonth": 428,
+    "timeYear": 428,
     "dailyMinutesDown": {
       "2020-12-13": 9
     }
@@ -43,16 +43,16 @@
     "icon": "https://favicons.githubusercontent.com/docs.turboapi.dev",
     "slug": "docs",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 229,
-    "timeDay": 110,
-    "timeWeek": 178,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 226,
+    "timeDay": 166,
+    "timeWeek": 175,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {
       "2020-12-18": 24
     }
