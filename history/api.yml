@@ -1,7 +1,7 @@
 url: https://api.turboapi.dev/v1/health
-status: down
-code: 502
-responseTime: 253
-lastUpdated: 2021-07-28T14:49:40.591Z
+status: up
+code: 200
+responseTime: 207
+lastUpdated: 2021-07-28T16:36:22.382Z
 startTime: Sun Dec 13 2020 15:46:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
