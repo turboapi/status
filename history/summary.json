@@ -4,7 +4,7 @@
     "url": "https://turboapi.dev",
     "icon": "https://favicons.githubusercontent.com/turboapi.dev",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 300,
     "timeYear": 377,
     "dailyMinutesDown": {
+      "2021-09-02": 0,
       "2021-02-18": 41
     }
   },
