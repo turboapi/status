@@ -32,7 +32,7 @@
     "uptime": "97.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.38%",
-    "uptimeMonth": "98.61%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "95.87%",
     "time": 383,
     "timeDay": 429,
@@ -73,19 +73,19 @@
     "url": "https://docs.turboapi.dev",
     "icon": "https://favicons.githubusercontent.com/docs.turboapi.dev",
     "slug": "docs",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 193,
-    "timeWeek": 328,
-    "timeMonth": 540,
+    "uptimeDay": "98.12%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 269,
+    "timeDay": 250,
+    "timeWeek": 332,
+    "timeMonth": 535,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2022-06-16": 0
+      "2022-06-16": 27
     }
   }
 ]
