@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 284,
-    "timeDay": 62,
-    "timeWeek": 118,
-    "timeMonth": 182,
+    "timeDay": 167,
+    "timeWeek": 138,
+    "timeMonth": 180,
     "timeYear": 280,
     "dailyMinutesDown": {
       "2022-12-08": 33,
@@ -32,15 +32,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.58%",
+    "uptimeYear": "99.85%",
     "time": 518,
-    "timeDay": 228,
-    "timeWeek": 261,
+    "timeDay": 338,
+    "timeWeek": 281,
     "timeMonth": 314,
-    "timeYear": 492,
-    "dailyMinutesDown": {
-      "2022-09-20": 818
-    }
+    "timeYear": 482,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Docs",
@@ -54,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 162,
-    "timeWeek": 222,
-    "timeMonth": 262,
+    "timeDay": 178,
+    "timeWeek": 231,
+    "timeMonth": 258,
     "timeYear": 297,
     "dailyMinutesDown": {}
   }
