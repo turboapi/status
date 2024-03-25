@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 233,
-    "timeDay": 161,
-    "timeWeek": 123,
-    "timeMonth": 158,
-    "timeYear": 199,
+    "timeDay": 194,
+    "timeWeek": 121,
+    "timeMonth": 161,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.turboapi.dev.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "98.18%",
+    "uptime": "98.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 499,
-    "timeDay": 226,
-    "timeWeek": 317,
+    "timeDay": 280,
+    "timeWeek": 259,
     "timeMonth": 321,
-    "timeYear": 487,
+    "timeYear": 486,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 297,
-    "timeDay": 115,
-    "timeWeek": 152,
-    "timeMonth": 255,
+    "timeDay": 133,
+    "timeWeek": 140,
+    "timeMonth": 250,
     "timeYear": 299,
     "dailyMinutesDown": {}
   }
