@@ -4,19 +4,19 @@
     "url": "https://turboapi.dev",
     "icon": "https://icons.duckduckgo.com/ip3/turboapi.dev.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 123,
-    "timeWeek": 175,
-    "timeMonth": 253,
-    "timeYear": 199,
+    "time": 193,
+    "timeDay": 187,
+    "timeWeek": 184,
+    "timeMonth": 252,
+    "timeYear": 200,
     "dailyMinutesDown": {
-      "2025-04-12": 0
+      "2025-04-12": 26
     }
   },
   {
